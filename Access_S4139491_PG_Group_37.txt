@@ -1,0 +1,16 @@
+COSC2671 Assignment 2 Access Demonstration File
+Student: S4137524
+Course level: PG
+Group: 37
+
+Repository link:
+https://github.com/AnjanaRjay/SMNA-Assignment-2.git
+
+Access instructions:
+1. The teaching team can access the report, notebook, worksheet, representative data sample and figures from the link above.
+2. The notebook does not contain API keys or private credentials.
+3. To rerun data collection, set YOUTUBE_API_KEY in the local environment before launching Jupyter.
+4. If API quota is unavailable, inspect the executed notebook outputs and representative sample included in the submission package.
+
+Contact person / group leader:
+Anjana Jayasundara s4139491
